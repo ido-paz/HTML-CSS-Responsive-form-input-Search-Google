@@ -1,4 +1,4 @@
-# HTML form , input , for searching google using CSS design
+# HTML form , input , for searching google using CSS responsive design
 *You can only use HTML form,label,input,select tags to achieve the user interface.<br/>
 *Enable submiting the form only if there is text in the search text and between 1 to 25 search results.<br/>
 *Use CSS selectors and rules to achieve the user interface.<br/>
